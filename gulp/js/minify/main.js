@@ -1,0 +1,1 @@
+!function(i){i(".hamburger").click(function(){i(this).toggleClass("is-active")})}(jQuery);
